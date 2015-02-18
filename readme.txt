@@ -1,7 +1,7 @@
 === SpoonTalk Social Media Icon Widget ===
 Contributors: akhlesh-nagar, a.ankit
 Donate link: http://spoontalk.com
-Tags: social media, social media icons, icons, widget, social media widget, sidebar, font awesome
+Tags: social media, social media icons, icons, widget, social media widget, sidebar, font awesome, facebook, twitter, linkedin, google plus, facebook icon, twitter icon
 Requires at least: 3.3
 Tested up to: 4.1
 Stable tag: 1.0
