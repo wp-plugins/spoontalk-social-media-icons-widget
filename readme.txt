@@ -15,7 +15,7 @@ It allows users to input their social media website profile URLs and display the
 
 The SpoonTalk Social Media Widget utilizes Font Awesome Icons to display the Social Media Profiles.
 
-=Supporetd Social Media Networks=
+= Supporetd Social Media Networks =
 * FaceBook
 * Twitter
 * Google Plus
@@ -30,7 +30,7 @@ The SpoonTalk Social Media Widget utilizes Font Awesome Icons to display the Soc
 
 Here is the link to [Documentation](http://spoontalk.com/wordpress/add-social-media-icons-wordpress/) 
 
-In case you face any problem, contact us via the [Forums](). 
+In case you face any problem, contact us via the [Forums](https://wordpress.org/support/plugin/spoontalk-social-media-icons-widget). 
 
 
 

@@ -212,6 +212,7 @@ update_option('spoontalk_social_style_settings', $spoontalk_social_style_setting
 <p>2. Customize the Design to suit your style. We currently Support 5 Design Settings</p>
 <p>3. In order to create circular / round icons simply set Icon Border Radius 50%</p>
 <p>4. Now go to Appearance ->Widgtes and use the SpoonTalk Social Icons Widget.</p>
+<p>4. For any query contact us via the <a href = "https://wordpress.org/support/plugin/spoontalk-social-media-icons-widget" target = "_blank">Wordpress Forums</a></p>
 <br>
 
 
