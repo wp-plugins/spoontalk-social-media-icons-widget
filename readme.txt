@@ -1,4 +1,4 @@
-=== SpoonTalk Social Media Icon Widget ===
+=== Social Media Icons Widget ===
 Contributors: akhlesh-nagar, a.ankit
 Donate link: http://spoontalk.com
 Tags: social media, social media icons, icons, widget, social media widget, sidebar, font awesome, facebook, twitter, linkedin, google plus, facebook icon, twitter icon
